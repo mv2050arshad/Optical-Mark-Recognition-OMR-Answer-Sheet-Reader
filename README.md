@@ -1,6 +1,6 @@
 # Optical-Mark-Recognition-Answer-Sheet-Reader
-
-![Logo or Banner](path/to/logo-or-banner.png)
+ 
+![omr](https://github.com/user-attachments/assets/ef1ae7da-a830-4238-ba84-11a68c890f03)
 
 ## 🚀 Overview
 
@@ -21,10 +21,11 @@ The **Optical Mark Recognition (OMR) Answer Sheet Reader** is a C# application d
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
 ### Example Interface:
-![Screenshot](path/to/screenshot.png)
+
+[![Watch the video](https://img.youtube.com/vi/Xc9NrJOnAc4/0.jpg)](https://youtu.be/Xc9NrJOnAc4)
 
 ---
 
